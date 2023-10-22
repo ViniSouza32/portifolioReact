@@ -16,7 +16,7 @@ export function SideBar() {
           isExternal
         />
         <Link to="https://github.com/ViniSouza32" title="GitHub" isExternal />
-        <Link to="#" title="Instagram" isExternal />
+        <Link to="https://www.instagram.com/vini.schafer/" title="Instagram" isExternal />
       </div>
       <div className={styles.workExperience}>
         <span>Experiência</span>
