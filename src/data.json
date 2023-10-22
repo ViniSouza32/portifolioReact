@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Projet em HTML e CSS de um petShop",
+    "linguagem": "HTML e CSS",
+    "imagem": "../../assets/imagem1.png",
+    "descricao": "Um projeto HTML feito no curso CRIE_TI.",
+    "linkGithub": "https://github.com/ViniSouza32"
+  },
+  {
+    "id": 2,
+    "titulo": "Meu Projeto HTML e CSS de um programa de entreterimento",
+    "linguagem": "HTML e CSS",
+    "imagem": "../../assets/imagem2.png",
+    "descricao": "Outro projeto feito no curso CRIE_TI.",
+    "linkGithub": "https://github.com/ViniSouza32/crieFlix"
+  },
+  {
+    "id": 3,
+    "titulo": "Projeto Feito com o um tipo de pix",
+    "linguagem": "HTML, CSS e typeScript",
+    "imagem": "../../assets/imagem3.png",
+    "descricao": "Um projeto feito no curso CRIE_TI.",
+    "linkGithub": "https://github.com/ViniSouza32/projectPix"
+  }
+]

@@ -1,0 +1,11 @@
+.project {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+}
